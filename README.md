@@ -12,8 +12,12 @@ The little purple blob is going across the sushi restaurnt, it can jump onto blo
 
 ## Assets
 
-assets/images/blob character.webp
-assets/images/Sushi place.avif
+| File                                         | Source                                             |
+| -------------------------------------------- | -------------------------------------------------- |
+| `assets/images/blob character.webp`          | Magnific, oremium image — magnific.com  [1]        |
+| `assets/images/Sushi place.avif`             | Vecteezy — Vecteezy.com  [2]                       |
+
+|
 
 ## References
 
