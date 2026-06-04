@@ -14,8 +14,8 @@ The little purple blob is going across the sushi restaurnt, it can jump onto blo
 
 | File                                         | Source                                             |
 | -------------------------------------------- | -------------------------------------------------- |
-| `assets/images/blob character.webp`          | Nattysiri, oremium image — magnific.com  [1]        |
-| `assets/images/Sushi place.avif`             | Mamchurov — Vecteezy.com  [2]                       |
+| `assets/images/blob character.webp`  [1]        | Nattysiri, oremium image — magnific.com          |
+| `assets/images/Sushi place.avif`   [2]          | Mamchurov — Vecteezy.com                         |
 
 |
 
